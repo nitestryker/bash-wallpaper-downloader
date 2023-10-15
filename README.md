@@ -1,6 +1,6 @@
 # Wallpaper Downloader
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nitestryker/bash-wallpaper-downloader?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nitestryker/bash-wallpaper-downloader)
 ![GitHub license](https://img.shields.io/github/license/nitestryker/bash-wallpaper-downloader)
 
 Welcome to Wallpaper Downloader, a versatile Bash script for downloading and managing high-quality wallpapers from Unsplash. This script is designed to provide you with a seamless experience to refresh your desktop background with stunning images.
